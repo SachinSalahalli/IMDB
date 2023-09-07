@@ -3,7 +3,7 @@ IMDb-CLONE (HTML CSS & JAVASCRIPT)
 
 Your site is live at https://sachinsalahalli.github.io/IMDB/
 
-Project  video : https:
+Project  video : https://youtu.be/4oKhe4z-AAE
 
 ABOUT THIS PROJECT-:
 
