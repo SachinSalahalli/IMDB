@@ -6,7 +6,7 @@ Your site is live at https://sachinsalahalli.github.io/IMDB/
 
 Project  video : https://youtu.be/4oKhe4z-AAE
 
-🎥 Features
+## Features
 ✅ Movie & TV Show Listings – Browse popular movies and TV shows
 ✅ Search Functionality – Find movies by name or category
 ✅ Movie Details Page – View descriptions, ratings, cast, and trailers
